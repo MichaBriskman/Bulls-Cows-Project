@@ -4,7 +4,7 @@
 * Name: Micha Briskman 
 
 # Technologies
-* client side - React
+* Client side - React
 * Server side - Spring, java
 * Server - Tomcat 9.0.73
 * Database - SQL
