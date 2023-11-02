@@ -4,10 +4,10 @@
 * Name: Micha Briskman 
 
 # Technologies
-client side - React
-Server side - Spring, java
-Server - Tomcat 9.0.73
-Database - SQL
+* client side - React
+* Server side - Spring, java
+* Server - Tomcat 9.0.73
+* Database - SQL
 
 # About
 Bulls and Cows is a classic guessing game also known as "Mastermind." It's a two-player game where the computer generates a secret sequence of digits and the player tries to guess the code. The game is played with a 4-digit code. </br>
